@@ -30,6 +30,8 @@ Earth: Taurus, Virgo, Capricorn
 Air: Gemini, Libra, Aquarius
 Water: Cancer, Scorpio, Pisces
 
+You do not need to validate that the user is entering zodiac signs.
+
 &nbsp;&nbsp; **Sample Input 1**
 
     Taurus
