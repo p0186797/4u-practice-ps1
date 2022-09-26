@@ -84,7 +84,7 @@ Write a program that reads one line from the user and outputs if the input repre
 
 Inside that file create a class called **VowelQuestion**.
 
-Write a program that reads lines of input from the user until the user types in QUIT - each line represents a word. The program outputs the the most frequently occuring vowel. If more than one vowel occurs most frequently, output 'The more the merrier'.
+Write a program that reads lines of input from the user until the user types in QUIT - each line represents a lower case word. The program outputs the the most frequently occuring vowel. If more than one vowel occurs most frequently, output 'The more the merrier'.
 
 &nbsp;&nbsp; **Sample Input 1**
 
@@ -92,7 +92,7 @@ Write a program that reads lines of input from the user until the user types in 
     ant
     oven
     hail
-    Eye
+    eye
     QUIT
     
 &nbsp;&nbsp; **Sample Output 1**
@@ -107,6 +107,7 @@ Write a program that reads lines of input from the user until the user types in 
     part
     apple
     eat
+    QUIT
     
 &nbsp;&nbsp; **Sample Output 2**
 
