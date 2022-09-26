@@ -89,7 +89,7 @@ Write a program that reads lines of input from the user until the user types in 
     apple
     ant
     oven
-    ail
+    hail
     Eye
     QUIT
     
@@ -99,19 +99,16 @@ Write a program that reads lines of input from the user until the user types in 
 
 &nbsp;&nbsp; **Sample Input 2**
     
-    10101010101
-
+    hello
+    goodbye
+    auto
+    part
+    apple
+    eat
+    
 &nbsp;&nbsp; **Sample Output 2**
 
-    yes
-
-&nbsp;&nbsp; **Sample Input 2**
-
-    2122100
-
-&nbsp;&nbsp; **Sample Output 2**
-
-    yes
+    The more the merrier
     
 ---
 
