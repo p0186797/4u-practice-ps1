@@ -70,11 +70,11 @@ Write a program that reads one line from the user and outputs if the input repre
 
     yes
 
-&nbsp;&nbsp; **Sample Input 2**
+&nbsp;&nbsp; **Sample Input 3**
 
     2122100
 
-&nbsp;&nbsp; **Sample Output 2**
+&nbsp;&nbsp; **Sample Output 3**
 
     yes
     
